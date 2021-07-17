@@ -17,3 +17,6 @@
 * JEP 395: Records
 * JEP 396: Strongly Encapsulate JDK Internals by Default
 * JEP 397: Sealed Classes (Second Preview)
+
+## Ref
+* https://mkyong.com/java/what-is-new-in-java-16/
