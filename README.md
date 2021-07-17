@@ -19,4 +19,5 @@
 * JEP 397: Sealed Classes (Second Preview)
 
 ## Ref
+* https://en.wikipedia.org/wiki/Java_version_history#Java_16
 * https://mkyong.com/java/what-is-new-in-java-16/
