@@ -24,4 +24,6 @@ Sealed Classes (Second Preview)               | JEP 397
 
 ## Ref
 * https://en.wikipedia.org/wiki/Java_version_history#Java_16
+* https://www.oracle.com/java/technologies/javase/16-relnotes.html
+* https://openjdk.java.net/projects/jdk/16/
 * https://mkyong.com/java/what-is-new-in-java-16/
