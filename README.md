@@ -2,8 +2,8 @@
 
 Feature                                       | Description
 ----------------------------------------------|-------------
-Records                                       | 
-Pattern Matching for instanceof               | 
+[Records](https://github.com/shamy1st/java-records)                                             | 
+[Pattern Matching for instanceof](https://github.com/shamy1st/java-pattern-matching-instanceof) | 
 Enable C++14 Language Features                | 
 Migrate from Mercurial to Git                 | 
 Migrate to GitHub                             | 
