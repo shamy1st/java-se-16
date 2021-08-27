@@ -17,9 +17,9 @@ Strongly Encapsulate JDK Internals by Default |
 
 ### Preview
 
-Feature                                       | Description
-----------------------------------------------|-------------
-Sealed Classes (Second Preview)               | 
+Feature                                                         | Description
+----------------------------------------------------------------|-------------
+[Sealed Classes](https://github.com/shamy1st/java-sealed-class) | 
 
 ### Incubator
 
