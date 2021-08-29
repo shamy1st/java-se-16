@@ -1,11 +1,11 @@
 # Java SE 16
 
-Feature                                       | Description
-----------------------------------------------|-------------
-[Records](https://github.com/shamy1st/java-records)                                             | 
-[Pattern Matching for instanceof](https://github.com/shamy1st/java-pattern-matching-instanceof) | 
-[Unix-Domain Socket Channels](https://github.com/shamy1st/java-unix-domain-socket-channels)     | Inter-Process Communication (IPC), exchanging data between processes executing on the same host
-Warnings for Value-Based Classes              | 
+Feature                                                                                            | Description
+---------------------------------------------------------------------------------------------------|-------------
+[Records](https://github.com/shamy1st/java-records)                                                | 
+[Pattern Matching for instanceof](https://github.com/shamy1st/java-pattern-matching-instanceof)    | 
+[Unix-Domain Socket Channels](https://github.com/shamy1st/java-unix-domain-socket-channels)        | Inter-Process Communication (IPC), exchanging data between processes executing on the same host
+[Warnings for Value-Based Classes](https://github.com/shamy1st/java-warning-for-value-based-class) | annotation @jdk.internal.ValueBased tells if a class is a value-based class
 Packaging Tool                                | 
 Strongly Encapsulate JDK Internals by Default | 
 
