@@ -4,7 +4,7 @@ Feature                                       | Description
 ----------------------------------------------|-------------
 [Records](https://github.com/shamy1st/java-records)                                             | 
 [Pattern Matching for instanceof](https://github.com/shamy1st/java-pattern-matching-instanceof) | 
-Unix-Domain Socket Channels                   | 
+Unix-Domain Socket Channels                   | Inter-Process Communication (IPC), exchanging data between processes executing on the same host
 Alpine Linux Port                             | 
 Elastic Metaspace                             | 
 Windows/AArch64 Port                          | 
