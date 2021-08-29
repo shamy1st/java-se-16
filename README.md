@@ -4,7 +4,7 @@ Feature                                       | Description
 ----------------------------------------------|-------------
 [Records](https://github.com/shamy1st/java-records)                                             | 
 [Pattern Matching for instanceof](https://github.com/shamy1st/java-pattern-matching-instanceof) | 
-Enable C++14 Language Features                | Allow the use of [C++14 language features](https://en.wikipedia.org/wiki/C%2B%2B14) in JDK C++ source code
+[Enable C++14 Language Features](https://openjdk.java.net/jeps/347)                             | Allow the use of [C++14 language features](https://en.wikipedia.org/wiki/C%2B%2B14) in JDK C++ source code
 Migrate from Mercurial to Git                 | 
 Migrate to GitHub                             | 
 Unix-Domain Socket Channels                   | 
