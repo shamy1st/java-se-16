@@ -1,13 +1,13 @@
 # Java SE 16
 
-Feature                                                                                            | Description
----------------------------------------------------------------------------------------------------|-------------
-[Records](https://github.com/shamy1st/java-records)                                                | 
-[Pattern Matching for instanceof](https://github.com/shamy1st/java-pattern-matching-instanceof)    | 
-[Unix-Domain Socket Channels](https://github.com/shamy1st/java-unix-domain-socket-channels)        | Inter-Process Communication (IPC), exchanging data between processes executing on the same host
-[Warnings for Value-Based Classes](https://github.com/shamy1st/java-warning-for-value-based-class) | annotation @jdk.internal.ValueBased tells if a class is a value-based class
-[Packaging Tool](https://github.com/shamy1st/java-packaging-tool)                                  | packaging tool to package Java application into a platform-specific package like: (Linux: deb and rpm) (macOS: pkg and dmg) (Windows: msi and exe)
-Strongly Encapsulate JDK Internals by Default | 
+Feature                                                                                                              | Description
+---------------------------------------------------------------------------------------------------------------------|-------------
+[Records](https://github.com/shamy1st/java-records)                                                                  | 
+[Pattern Matching for instanceof](https://github.com/shamy1st/java-pattern-matching-instanceof)                      | 
+[Unix-Domain Socket Channels](https://github.com/shamy1st/java-unix-domain-socket-channels)                          | Inter-Process Communication (IPC), exchanging data between processes executing on the same host
+[Warnings for Value-Based Classes](https://github.com/shamy1st/java-warning-for-value-based-class)                   | annotation @jdk.internal.ValueBased tells if a class is a value-based class
+[Packaging Tool](https://github.com/shamy1st/java-packaging-tool)                                                    | packaging tool to package Java application into a platform-specific package like: (Linux: deb and rpm) (macOS: pkg and dmg) (Windows: msi and exe)
+[Strongly Encapsulate JDK Internals by Default](https://github.com/shamy1st/java-strongly-encapsulate-jdk-internals) | Strongly encapsulate all internal elements of the JDK by default, except for critical internal APIs such as sun.misc.Unsafe. Allow end users to choose the relaxed strong encapsulation that has been the default since JDK 9.
 
 ### Preview
 
